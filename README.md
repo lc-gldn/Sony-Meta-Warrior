@@ -1,6 +1,8 @@
 [README.MD](https://github.com/user-attachments/files/27176524/README.MD)
 
-Sony Meta Warrior B1.3.0
+Sony Meta Warrior B1.3.0 
+
+MacOS 15+
 
 A DaVinci Resolve Lua Script for Sony Camera Metadata
 Automatically syncs Sony camera metadata (ISO, FPS, LUT, gamut, shutter, aperture, lens, white balance, and more) into DaVinci Resolve clip properties using a dedicated Rust-based resolver.
